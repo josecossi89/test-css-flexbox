@@ -10,6 +10,7 @@
   display: -moz-flex;
   display: -webkit-flex;
   display: flex;
+  justify-content: space-between;
 }
 
 .nowrap {
